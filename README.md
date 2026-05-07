@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Ankit Yadav 👋
 
-<!--
-**ankit-yadav-ay/ankit-yadav-ay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Analyst based in Delhi/NCR, passionate about transforming complex data into actionable insights. I enjoy working on geospatial analysis, dashboard creation, and physical asset tracking solutions.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
+* **Languages:** Python, SQL
+* **Data Visualization:** Power BI, Looker Studio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Working On
+* **Proximity-Based Station Search System:** Developing a geospatial coordinate mapper to find nearby Battery Swapping Stations (BSS) within specific radiuses.
+* **Vehicle Onboarding & Battery Mapping:** Creating web-based tracking solutions for physical asset recovery.
+
+### 📫 Let's Connect!
+* **LinkedIn:** https://www.linkedin.com/in/ankit-yadav-4a96a2377?utm_source=share_via&utm_content=profile&utm_medium=member_android
