@@ -5,6 +5,7 @@ I am a Data Analyst based in Delhi/NCR, passionate about transforming complex da
 ### 🛠️ Tech Stack & Tools
 * **Languages:** Python, SQL
 * **Data Visualization:** Power BI, Looker Studio
+* **Advanced Excel:** Index-Match, VLOOKUP, Pivot Table, Countif, Sumif etc.
 
 ### 🚀 What I'm Working On
 * **Proximity-Based Station Search System:** Developing a geospatial coordinate mapper to find nearby Battery Swapping Stations (BSS) within specific radiuses.
